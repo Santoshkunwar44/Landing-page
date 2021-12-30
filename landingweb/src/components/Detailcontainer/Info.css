@@ -1,0 +1,21 @@
+.info{
+    width: 40%;
+    background-color: white;
+    border: #333;   
+    position: absolute;
+    z-index: 3;
+    height:45vh;
+
+}
+.infoContainer{
+    width:100%;
+    height: 100vh;
+    display: flex;
+    position: relative;
+    z-index: 33;
+}
+.info-item{
+    width: 100%;
+.info-item img{
+    width: 100%;
+}
