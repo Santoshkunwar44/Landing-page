@@ -5,12 +5,15 @@ function Body() {
     <div className="body">
       <div className="content">
         <h2 className="body-title  ">
-          REAL <span className="title2">ESTATE</span>{" "}
+          REAL <span className="title2">ESTATE</span>
         </h2>
-        <h3 className="body-desc"> Find Your Nook</h3>
+        <h3 className="body-desc"> FIND YOUR NOOK</h3>
       </div>
+    <div className="icon-holder">
+     
+    <i class="icons fas fa-sort-down"></i>
+    </div>
 
-      <i class="icons fas fa-sort-down"></i>
     </div>
   );
 }
